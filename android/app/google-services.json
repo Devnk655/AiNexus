@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "769230455443",
+    "project_id": "ainexus-f97b0",
+    "storage_bucket": "ainexus-f97b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769230455443:android:c5e5c16698c136ca834366",
+        "android_client_info": {
+          "package_name": "com.example.ainexus.ainexus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769230455443-kbpfir97tqnjc09ul2j1mfgnuc05850h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRjQuvC_8JMrWP1UKXJh_6bcn_1G_wKuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769230455443-kbpfir97tqnjc09ul2j1mfgnuc05850h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
